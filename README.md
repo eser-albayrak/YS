@@ -120,7 +120,7 @@ kalkması için iki seçenek var:
 
 ```powershell
 cd C:\nssm\win64
-.\nssm.exe install GKYSSolo
+.\nssm.exe install YS (Yönetim Sistemi)
 ```
 
 3. Açılan pencerede:
@@ -131,7 +131,7 @@ cd C:\nssm\win64
 4. "Install service" ile kaydedin, sonra:
 
 ```powershell
-Start-Service GKYSSolo
+Start-Service YS (Yönetim Sistemi)
 ```
 
 Artık sunucu Windows ile birlikte otomatik başlar ve çökerse kendini yeniden başlatır.
