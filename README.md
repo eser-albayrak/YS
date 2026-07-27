@@ -1,4 +1,4 @@
-# GKYS Solo — Giriş Kalite Yönetim Sistemi
+# Yönetim Sistemi
 
 Artık **paylaşımlı bir sunucu üzerinden çalışır**: tüm veri (giriş fişleri, lotlar, malzemeler,
 CoA/TDS/MSDS PDF'leri) ağdaki Windows sunucunuzda, `Data` klasörünüzün altında gerçek dosyalar
