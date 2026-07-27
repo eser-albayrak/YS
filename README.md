@@ -142,7 +142,7 @@ Windows Güvenlik Duvarı 80 portunu yerel ağa kapatıyor olabilir, açmak içi
 PowerShell):
 
 ```powershell
-New-NetFirewallRule -DisplayName "GKYS Solo" -Direction Inbound -LocalPort 80 -Protocol TCP -Action Allow
+New-NetFirewallRule -DisplayName "YS (Yönetim Sistemi)" -Direction Inbound -LocalPort 80 -Protocol TCP -Action Allow
 ```
 
 (Farklı bir port kullanıyorsanız `-LocalPort` değerini ona göre değiştirin.)
