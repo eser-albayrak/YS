@@ -85,7 +85,7 @@ Not: Sunucuda IIS gibi başka bir program zaten 80 portunu kullanıyorsa, dosyad
 satırını `PORT=8080` gibi boş bir port ile değiştirin — bu durumda adres `http://SUNUCU-IP:8080`
 olur.
 
-### 5. IP yerine kolay bir isimle erişim (örn. http://hammadde)
+### 5. IP yerine kolay bir isimle erişim (örn. http://YS)
 
 IP adresini ezberlemek/yazmak yerine kolay bir isim kullanmak için Active Directory DNS
 sunucunuza bir kayıt eklemeniz gerekir:
