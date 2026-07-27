@@ -53,10 +53,10 @@ usül `net share` komutu da aynı bilgiyi verir.
 
 ### 3. Projeyi sunucuya kopyalama ve kurulum
 
-Bu klasörü (gkys-solo) sunucuya kopyalayın (örn. `C:\gkys-solo`), sonra PowerShell'de:
+Bu klasörü (YS (Yönetim Sistemi)) sunucuya kopyalayın (örn. `C:\YS (Yönetim Sistemi)`), sonra PowerShell'de:
 
 ```powershell
-cd C:\gkys-solo
+cd C:\YS (Yönetim Sistemi)
 
 # Frontend bağımlılıklarını kurup derleyin
 npm install
@@ -109,7 +109,7 @@ kalkması için iki seçenek var:
 1. Başlat menüsünden "Görev Zamanlayıcı" (Task Scheduler) açın
 2. Sağdan "Temel Görev Oluştur" (Create Basic Task)
 3. Tetikleyici: "Bilgisayar başlatıldığında" (When the computer starts)
-4. Eylem: "Program Başlat" → Program: `C:\gkys-solo\server\start-server.bat`
+4. Eylem: "Program Başlat" → Program: `C:\YS (Yönetim Sistemi)\server\start-server.bat`
 5. Bittiğinde görevi bulun, sağ tık → Özellikler → "En yüksek ayrıcalıklarla çalıştır" işaretleyin
 
 **Seçenek B — Gerçek Windows Servisi (NSSM ile), daha sağlam (çökerse otomatik yeniden başlar):**
@@ -125,7 +125,7 @@ cd C:\nssm\win64
 
 3. Açılan pencerede:
    - **Path**: `C:\Program Files\nodejs\node.exe`
-   - **Startup directory**: `C:\gkys-solo`
+   - **Startup directory**: `C:\YS (Yönetim Sistemi)`
    - **Arguments**: `server\server.js`
    - "Environment" sekmesinde: `DATA_DIR=D:\Data\GKYS` ve `PORT=80` satırlarını ekleyin
 4. "Install service" ile kaydedin, sonra:
