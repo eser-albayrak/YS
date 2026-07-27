@@ -1,0 +1,39 @@
+{
+  "name": "gkys-solo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run server:install && npm run server:dev",
+    "server:install": "cd server && npm install",
+    "server:dev": "node server/server.js",
+    "build": "tsc -b && vite build",
+    "start": "NODE_ENV=production node server/server.js",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.21",
+    "express": "^5.2.1",
+    "html2canvas": "^1.4.1",
+    "html5-qrcode": "^2.3.8",
+    "jspdf": "^4.2.1",
+    "qrcode": "^1.5.3",
+    "qrcode.react": "^4.2.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "recharts": "^3.9.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.2",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.3",
+    "cross-env": "^10.1.0",
+    "oxlint": "^1.71.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.1.1"
+  }
+}

@@ -1,0 +1,409 @@
+[
+  {
+    "id": "LOG-1785177165869-91bf07",
+    "date": "2026-07-27T18:32:45.869Z",
+    "entity": "receipt",
+    "entityId": "GF-1784273722137-f842f4",
+    "action": "etiket / giriş fişi silindi",
+    "user": "admin",
+    "note": "ZYTEL® 101F NC010 - Lot: 0002332079"
+  },
+  {
+    "id": "LOG-1785177164136-09c818",
+    "date": "2026-07-27T18:32:44.136Z",
+    "entity": "receipt",
+    "entityId": "GF-EX-0001",
+    "action": "etiket / giriş fişi silindi",
+    "user": "admin",
+    "note": "PA6 30GF GRILON BG30S - Lot: LOT-EX-0001"
+  },
+  {
+    "id": "LOG-1785177145180-ff8464",
+    "date": "2026-07-27T18:32:25.180Z",
+    "entity": "order",
+    "entityId": "PO-1785177143321",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1785177143324-c482bb",
+    "date": "2026-07-27T18:32:23.325Z",
+    "entity": "order",
+    "entityId": "PO-1785177143321",
+    "action": "sipariş oluşturuldu",
+    "user": "admin",
+    "note": "26/H-001 - AKWEL"
+  },
+  {
+    "id": "LOG-1785177134702-036744",
+    "date": "2026-07-27T18:32:14.702Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784896418114-cbb380",
+    "date": "2026-07-24T12:33:38.114Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784896413354-915519",
+    "date": "2026-07-24T12:33:33.354Z",
+    "entity": "auth",
+    "entityId": "admin",
+    "action": "başarısız giriş denemesi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784896178635-751d87",
+    "date": "2026-07-24T12:29:38.635Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784896036007-dc60f7",
+    "date": "2026-07-24T12:27:16.007Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784895609865-a056b0",
+    "date": "2026-07-24T12:20:09.866Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784794907790-abc348",
+    "date": "2026-07-23T08:21:47.791Z",
+    "entity": "auth",
+    "entityId": "admin",
+    "action": "başarısız giriş denemesi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784790957460-4a59a7",
+    "date": "2026-07-23T07:15:57.460Z",
+    "entity": "movement",
+    "entityId": "MV-1784790957459-446ae1",
+    "action": "depo çıkışı",
+    "user": "admin",
+    "note": "Lot LOT-EX-0001, 25 kg"
+  },
+  {
+    "id": "LOG-1784790956790-adf787",
+    "date": "2026-07-23T07:15:56.791Z",
+    "entity": "movement",
+    "entityId": "MV-1784790956789-22c015",
+    "action": "depo çıkışı",
+    "user": "admin",
+    "note": "Lot LOT-EX-0001, 25 kg"
+  },
+  {
+    "id": "LOG-1784790955986-4badb8",
+    "date": "2026-07-23T07:15:55.986Z",
+    "entity": "movement",
+    "entityId": "MV-1784790955984-0c098c",
+    "action": "depo çıkışı",
+    "user": "admin",
+    "note": "Lot LOT-EX-0001, 25 kg"
+  },
+  {
+    "id": "LOG-1784790953872-271725",
+    "date": "2026-07-23T07:15:53.872Z",
+    "entity": "movement",
+    "entityId": "MV-1784790953871-578dfe",
+    "action": "depo çıkışı",
+    "user": "admin",
+    "note": "Lot LOT-EX-0001, 25 kg"
+  },
+  {
+    "id": "LOG-1784790188800-6f0622",
+    "date": "2026-07-23T07:03:08.800Z",
+    "entity": "order",
+    "entityId": "PO-1784790167323",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784790167327-46eda3",
+    "date": "2026-07-23T07:02:47.327Z",
+    "entity": "order",
+    "entityId": "PO-1784790167323",
+    "action": "sipariş oluşturuldu",
+    "user": "admin",
+    "note": "26/H-001 - AKWEL"
+  },
+  {
+    "id": "LOG-1784790143396-0866df",
+    "date": "2026-07-23T07:02:23.397Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784731636336-2c9851",
+    "date": "2026-07-22T14:47:16.336Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784731354116-27bdd4",
+    "date": "2026-07-22T14:42:34.116Z",
+    "entity": "order",
+    "entityId": "PO-1784731319969",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784731319972-e9d868",
+    "date": "2026-07-22T14:41:59.972Z",
+    "entity": "order",
+    "entityId": "PO-1784731319969",
+    "action": "sipariş oluşturuldu",
+    "user": "admin",
+    "note": "26/H-001 - CHEMİEURO POLİMER PLASTİK A.Ş."
+  },
+  {
+    "id": "LOG-1784731313365-9a056c",
+    "date": "2026-07-22T14:41:53.366Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784731172727-0d6d10",
+    "date": "2026-07-22T14:39:32.728Z",
+    "entity": "order",
+    "entityId": "PO-1784730814707",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784731171054-d931cc",
+    "date": "2026-07-22T14:39:31.054Z",
+    "entity": "order",
+    "entityId": "PO-1784731019591",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784731019595-89523c",
+    "date": "2026-07-22T14:36:59.595Z",
+    "entity": "order",
+    "entityId": "PO-1784731019591",
+    "action": "sipariş oluşturuldu",
+    "user": "admin",
+    "note": "26/H-002 - ELATEK"
+  },
+  {
+    "id": "LOG-1784731013037-5af92b",
+    "date": "2026-07-22T14:36:53.037Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784730814710-8465a8",
+    "date": "2026-07-22T14:33:34.710Z",
+    "entity": "order",
+    "entityId": "PO-1784730814707",
+    "action": "sipariş oluşturuldu",
+    "user": "admin",
+    "note": "26/H-001 - AKWEL"
+  },
+  {
+    "id": "LOG-1784730808512-81f9e7",
+    "date": "2026-07-22T14:33:28.512Z",
+    "entity": "order",
+    "entityId": "PO-1784730600334",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784730600339-7e035c",
+    "date": "2026-07-22T14:30:00.339Z",
+    "entity": "order",
+    "entityId": "PO-1784730600334",
+    "action": "sipariş oluşturuldu",
+    "user": "admin",
+    "note": "26/H-001 - AKWEL"
+  },
+  {
+    "id": "LOG-1784730473645-1a995b",
+    "date": "2026-07-22T14:27:53.646Z",
+    "entity": "order",
+    "entityId": "PO-1784730458242",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784730458245-816267",
+    "date": "2026-07-22T14:27:38.245Z",
+    "entity": "order",
+    "entityId": "PO-1784730458242",
+    "action": "sipariş oluşturuldu",
+    "user": "admin",
+    "note": "26/H-001 - BİESTERFELD PLASTİK (BV)"
+  },
+  {
+    "id": "LOG-1784730422490-31c692",
+    "date": "2026-07-22T14:27:02.490Z",
+    "entity": "order",
+    "entityId": "PO-EXAMPLE-001",
+    "action": "sipariş silindi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784730413782-330d4c",
+    "date": "2026-07-22T14:26:53.782Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784730357736-9a7810",
+    "date": "2026-07-22T14:25:57.736Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784730074258-74aebc",
+    "date": "2026-07-22T14:21:14.258Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729919230-29c8e2",
+    "date": "2026-07-22T14:18:39.230Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729900485-b3900a",
+    "date": "2026-07-22T14:18:20.485Z",
+    "entity": "auth",
+    "entityId": "admin",
+    "action": "başarısız giriş denemesi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729898095-114b65",
+    "date": "2026-07-22T14:18:18.095Z",
+    "entity": "auth",
+    "entityId": "admin",
+    "action": "başarısız giriş denemesi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729896367-8a3f58",
+    "date": "2026-07-22T14:18:16.367Z",
+    "entity": "auth",
+    "entityId": "admin",
+    "action": "başarısız giriş denemesi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729891528-1b03d5",
+    "date": "2026-07-22T14:18:11.528Z",
+    "entity": "auth",
+    "entityId": "admin",
+    "action": "başarısız giriş denemesi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729885798-a3e2e8",
+    "date": "2026-07-22T14:18:05.798Z",
+    "entity": "auth",
+    "entityId": "Admin",
+    "action": "başarısız giriş denemesi",
+    "user": "Admin"
+  },
+  {
+    "id": "LOG-1784729274623-8cfd11",
+    "date": "2026-07-22T14:07:54.623Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729249965-45dc2f",
+    "date": "2026-07-22T14:07:29.965Z",
+    "entity": "user",
+    "entityId": "U-1784729249850-5bdc87",
+    "action": "kullanıcı oluşturuldu",
+    "user": "admin",
+    "note": "kalite (Giriş Kalite)"
+  },
+  {
+    "id": "LOG-1784729249632-ddb8b3",
+    "date": "2026-07-22T14:07:29.632Z",
+    "entity": "user",
+    "entityId": "U-1784729249532-5e8df5",
+    "action": "kullanıcı oluşturuldu",
+    "user": "admin",
+    "note": "depo (Depo)"
+  },
+  {
+    "id": "LOG-1784729249507-e7b019",
+    "date": "2026-07-22T14:07:29.507Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784729136637-18f91b",
+    "date": "2026-07-22T14:05:36.638Z",
+    "entity": "auth",
+    "entityId": "admin",
+    "action": "başarısız giriş denemesi",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784728806979-efbf1d",
+    "date": "2026-07-22T14:00:06.979Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784728392578-a5299c",
+    "date": "2026-07-22T13:53:12.578Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  },
+  {
+    "id": "LOG-1784727693333-a19370",
+    "date": "2026-07-22T13:41:33.333Z",
+    "entity": "auth",
+    "entityId": "U-1784704828476-73808f",
+    "action": "giriş yapıldı",
+    "user": "admin"
+  }
+]
