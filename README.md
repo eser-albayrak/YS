@@ -164,7 +164,7 @@ npm run dev
 ## Telefonla QR Okutma
 
 1. Telefon ve bilgisayarın **aynı WiFi ağında** olduğundan emin olun.
-2. Telefonun tarayıcısından `https://SUNUCU-IP:3443` (veya DNS kaydı varsa `https://hammadde:3443`) adresine gidin.
+2. Telefonun tarayıcısından `https://SUNUCU-IP:3443` (veya DNS kaydı varsa `https://YS:3443`) adresine gidin.
 3. "4. Depo Çıkışı" sekmesine girin, **"📷 Telefon Kamerasıyla Tara"** butonuna basın, tarayıcı
    kamera izni isteyecektir — izin verin.
 4. Etikette basılı QR kodu kameraya gösterin, otomatik okunur.
